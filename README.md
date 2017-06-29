@@ -1,1 +1,1 @@
-A chatroom app
+A chat room app that utilizes Action Cable, Devise, OmniAuth, and Instagram's API's (this was to allow users to select profile pictures, but Instagram API is restricted to sandbox mode until the app is approved for wider use). Please check it out at: http://tinkrfashion.herokuapp.com
